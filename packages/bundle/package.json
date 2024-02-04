@@ -22,7 +22,7 @@
   "skipBump": {},
   "dependencies": {
     "@babel/runtime": "7.19.0",
-    "web-speech-cognitive-services": "0.0.0-0"
+    "hip-web-speech-cognitive-services": "0.0.0-0"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",

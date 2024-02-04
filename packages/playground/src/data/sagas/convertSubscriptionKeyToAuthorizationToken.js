@@ -1,6 +1,6 @@
 import { call, put, select, takeLatest } from 'redux-saga/effects';
 
-import { fetchAuthorizationToken as fetchSpeechServicesAuthorizationToken } from 'web-speech-cognitive-services/lib/SpeechServices';
+import { fetchAuthorizationToken as fetchSpeechServicesAuthorizationToken } from 'hip-web-speech-cognitive-services/lib/SpeechServices';
 
 import { CONVERT_SPEECH_SERVICES_SUBSCRIPTION_KEY_TO_AUTHORIZATION_TOKEN } from '../actions/convertSpeechServicesSubscriptionKeyToAuthorizationToken';
 import setSpeechServicesAuthorizationToken from '../actions/setSpeechServicesAuthorizationToken';

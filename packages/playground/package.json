@@ -35,7 +35,7 @@
     "redux": "^4.2.0",
     "redux-saga": "^1.2.1",
     "simple-update-in": "^2.2.0",
-    "web-speech-cognitive-services": "0.0.0-0"
+    "hip-web-speech-cognitive-services": "0.0.0-0"
   },
   "devDependencies": {}
 }
