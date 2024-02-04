@@ -1,6 +1,6 @@
 {
   "name": "hip-web-speech-cognitive-services",
-  "version": "0.0.0-0",
+  "version": "7.1.4-hip1",
   "description": "Polyfill Web Speech API with Cognitive Services Speech-to-Text service",
   "keywords": [
     "cognitive services",

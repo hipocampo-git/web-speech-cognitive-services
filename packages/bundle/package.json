@@ -1,6 +1,6 @@
 {
   "name": "bundle",
-  "version": "0.0.0-0",
+  "version": "7.1.4-hip1",
   "main": "lib/index.js",
   "private": true,
   "scripts": {
@@ -22,7 +22,7 @@
   "skipBump": {},
   "dependencies": {
     "@babel/runtime": "7.19.0",
-    "hip-web-speech-cognitive-services": "0.0.0-0"
+    "hip-web-speech-cognitive-services": "^7.1.4-hip1"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",
