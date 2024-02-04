@@ -3,7 +3,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "7.1.4-hip2",
+  "version": "7.1.4-hip3",
   "command": {
     "bootstrap": {
       "forceLocal": true,

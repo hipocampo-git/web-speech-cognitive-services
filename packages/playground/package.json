@@ -1,6 +1,6 @@
 {
   "name": "playground",
-  "version": "7.1.4-hip2",
+  "version": "7.1.4-hip3",
   "homepage": "https://compulim.github.io/web-speech-cognitive-services",
   "private": true,
   "browserslist": [
@@ -22,7 +22,7 @@
   "dependencies": {
     "classnames": "^2.3.2",
     "glamor": "^2.20.40",
-    "hip-web-speech-cognitive-services": "^7.1.4-hip2",
+    "hip-web-speech-cognitive-services": "^7.1.4-hip3",
     "hip1-microsoft-cognitiveservices-speech-sdk": "1.34.0-hip.2",
     "on-error-resume-next": "^1.1.0",
     "p-defer": "^4.0.0",
