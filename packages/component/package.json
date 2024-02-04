@@ -84,5 +84,6 @@
   },
   "peerDependencies": {
     "microsoft-cognitiveservices-speech-sdk": "^1.17.0"
-  }
+  },
+  "gitHead": "4e77d2d14b22e90e39df16be2d22c3bd10c98f4d"
 }
