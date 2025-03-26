@@ -1,4 +1,4 @@
-import { AudioStreamFormat } from 'microsoft-cognitiveservices-speech-sdk';
+import { AudioStreamFormat } from 'hip1-microsoft-cognitiveservices-speech-sdk';
 
 export default async function recognizeRiffWaveArrayBuffer({
   audioFormat = AudioStreamFormat.getDefaultInputFormat(),

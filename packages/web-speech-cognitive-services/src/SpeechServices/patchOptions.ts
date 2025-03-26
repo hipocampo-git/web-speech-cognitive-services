@@ -1,4 +1,4 @@
-import { type AudioConfig as AudioConfigType } from 'microsoft-cognitiveservices-speech-sdk';
+import { type AudioConfig as AudioConfigType } from 'hip1-microsoft-cognitiveservices-speech-sdk';
 import { parse } from 'valibot';
 
 import resolveFunctionOrReturnValue from './resolveFunctionOrReturnValue';

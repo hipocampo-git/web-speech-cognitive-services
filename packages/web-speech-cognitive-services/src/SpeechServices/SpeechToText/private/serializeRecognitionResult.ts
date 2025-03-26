@@ -1,4 +1,4 @@
-import { type SpeechRecognitionResult } from 'microsoft-cognitiveservices-speech-sdk';
+import { type SpeechRecognitionResult } from 'hip1-microsoft-cognitiveservices-speech-sdk';
 
 export type SerializedRecognitionResult = Readonly<{
   duration: number;

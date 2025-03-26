@@ -1,4 +1,4 @@
-import { AudioStreamFormat } from 'microsoft-cognitiveservices-speech-sdk';
+import { AudioStreamFormat } from 'hip1-microsoft-cognitiveservices-speech-sdk';
 
 import {
   AudioSourceErrorEvent,
@@ -9,12 +9,12 @@ import {
   AudioStreamNodeAttachingEvent,
   AudioStreamNodeDetachedEvent
   // AudioStreamNodeErrorEvent,
-} from 'microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/AudioSourceEvents';
+} from 'hip1-microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/AudioSourceEvents';
 
-import { ChunkedArrayBufferStream } from 'microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/ChunkedArrayBufferStream';
-import { createNoDashGuid } from 'microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/Guid';
-import { Events } from 'microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/Events';
-import { EventSource } from 'microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/EventSource';
+import { ChunkedArrayBufferStream } from 'hip1-microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/ChunkedArrayBufferStream';
+import { createNoDashGuid } from 'hip1-microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/Guid';
+import { Events } from 'hip1-microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/Events';
+import { EventSource } from 'hip1-microsoft-cognitiveservices-speech-sdk/distrib/lib/src/common/EventSource';
 
 // This is copied from MicAudioSource, but instead of retrieving from MediaStream, we dump the ArrayBuffer directly.
 class QueuedArrayBufferAudioSource {

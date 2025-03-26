@@ -1,6 +1,6 @@
 {
-  "name": "web-speech-cognitive-services",
-  "version": "0.0.0-0",
+  "name": "hip-web-speech-cognitive-services",
+  "version": "8.1.1-hip.5",
   "description": "Polyfill Web Speech API with Cognitive Services Speech-to-Text service",
   "files": [
     "./dist/**/*"
@@ -103,6 +103,6 @@
     "valibot": "^0.42.1"
   },
   "peerDependencies": {
-    "microsoft-cognitiveservices-speech-sdk": "^1.17.0"
+    "hip1-microsoft-cognitiveservices-speech-sdk": "1.43.0-hip.6"
   }
 }

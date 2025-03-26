@@ -1,6 +1,6 @@
 /// <reference types="jest" />
 
-import { AudioConfig } from 'microsoft-cognitiveservices-speech-sdk';
+import { AudioConfig } from 'hip1-microsoft-cognitiveservices-speech-sdk';
 import patchOptions, { type Credentials } from './patchOptions';
 
 const credentials: Credentials = { authorizationToken: 'dummy', region: 'westus' };

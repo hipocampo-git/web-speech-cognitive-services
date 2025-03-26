@@ -4,7 +4,7 @@
 /* eslint no-empty-function: "off" */
 /* eslint no-magic-numbers: ["error", { "ignore": [0, 100, 150] }] */
 
-import { PropertyId } from 'microsoft-cognitiveservices-speech-sdk';
+import { PropertyId } from 'hip1-microsoft-cognitiveservices-speech-sdk';
 import patchOptions, { type PatchOptionsInit } from '../patchOptions';
 import SpeechSDK from '../SpeechSDK';
 import createSpeechRecognitionPonyfillFromRecognizer from './createSpeechRecognitionPonyfillFromRecognizer';
