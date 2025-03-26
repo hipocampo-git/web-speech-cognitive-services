@@ -1,5 +1,5 @@
 import { put, select, takeLatest } from 'redux-saga/effects';
-import { createSpeechServicesPonyfill } from 'web-speech-cognitive-services';
+import { createSpeechServicesPonyfill } from 'hip-web-speech-cognitive-services';
 
 import fetchSpeechServicesAuthorizationToken from '../../fetchSpeechServicesAuthorizationToken';
 import { SET_ENABLE_TELEMETRY } from '../actions/setEnableTelemetry';

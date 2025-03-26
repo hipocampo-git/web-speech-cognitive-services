@@ -103,6 +103,6 @@
     "valibot": "^0.42.1"
   },
   "peerDependencies": {
-    "hip1-microsoft-cognitiveservices-speech-sdk": "1.43.0-hip.6"
+    "hip1-microsoft-cognitiveservices-speech-sdk": "1.43.0-hip.4"
   }
 }
