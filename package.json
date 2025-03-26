@@ -2,7 +2,7 @@
   "name": "web-speech-cognitive-services-root",
   "version": "8.1.1-hip.5",
   "description": "",
-  "private": true,
+  "private": false,
   "author": "William Wong (https://github.com/compulim)",
   "license": "MIT",
   "workspaces": [
